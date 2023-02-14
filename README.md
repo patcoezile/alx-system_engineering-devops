@@ -1,2 +1,1 @@
-alias.
-# alx-system_engineering-devops
+0x02 shel IO redirections fliters file
